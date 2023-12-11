@@ -1,4 +1,4 @@
-# porgrammeringLog
+# ProgrammeringLog
 ## Logbok för programmering 2023-2024
 
 # Week 49

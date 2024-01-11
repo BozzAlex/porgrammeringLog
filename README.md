@@ -9,3 +9,4 @@ Idag gjorde jag en loggbok för att börja dockumentera arbetet. Tidigare har vi
 ## Måndag:
 Idag har vi tagit fram en basic demo av hur movement systemet kommer vara och hur scenerna kommer att ändras som vi kommer visa upp på julmarknaden.
 ## Torsdag:
+Idag har jag ominstallerat mitt OS för att få Lando att funka. Lando funkar nu men har inte haft tid till att jobba på projektet. Kommer fortsätta att arbeta på mitt hemma projekt där jag skapar en minecraft server senare och framtills nästa lektion.

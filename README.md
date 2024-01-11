@@ -10,3 +10,11 @@ Idag gjorde jag en loggbok för att börja dockumentera arbetet. Tidigare har vi
 Idag har vi tagit fram en basic demo av hur movement systemet kommer vara och hur scenerna kommer att ändras som vi kommer visa upp på julmarknaden.
 ## Torsdag:
 Idag har jag ominstallerat mitt OS för att få Lando att funka. Lando funkar nu men har inte haft tid till att jobba på projektet. Kommer fortsätta att arbeta på mitt hemma projekt där jag skapar en minecraft server senare och framtills nästa lektion.
+
+## Lovet
+Under lovet har jag testat runt med hur server hantering funkar. Först började jag med att omprimera de fysiska komponenterna som användes i servern genom att rota fram en dator och kollektivt med vänner sammlat ihop ram minnen. Efter det valde jag ett passande OS vilket blev Ubuntu Server (Minimal) och efter det satte jag igång serverna genom att ladda ner server filen och sedan redigera config filer och start kommandet. Då gick servern igång fast kunnde inte övervaka hur det gick för servern så jag fixade genom att installera Screens modulen. Efter det valde jag att fixa SSH till servern för att enklare kunna nå den istället för att behöva koppla en skärm till den vilket gick lätt genom att bara öppna port 22 på datorn vilket gjorde att datorer på samma nät kunde komma in på datorn via SSH.
+Det blev inte lika mycket att programmera som jag trodde fast tycker det blev en bra erfarenhet då det gjorde att jag blev mer skälvsäker med konsolen, linux och annat IT relaterat arbete.  
+
+# Week 2
+## Torsdag
+Idag skrev jag ihop vad jag gjorde med programmering under lovet.

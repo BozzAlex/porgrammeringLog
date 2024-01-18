@@ -18,3 +18,9 @@ Det blev inte lika mycket att programmera som jag trodde fast tycker det blev en
 # Week 2
 ## Torsdag
 Idag skrev jag ihop vad jag gjorde med programmering under lovet.
+
+# Week 3
+## Måndag
+Idag har jag hjälpt simon med skapandet av hans blackjack spel. Jag har också hållit på med att försöka logga in på teams, men det värkar som om mitt konto inte finns när jag försöker logga in med skoldatorn.
+## Torsdag
+Idag har jag jobbat med simon på att fixa till kort dragandet så att man får ut både vilken färg och valör det är samt att den är rättviss och adaptiv till storleken på decket. Jag har också hållit på med bash och redigerat filer med Joel för att göra nya commands till datorn.

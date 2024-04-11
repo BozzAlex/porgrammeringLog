@@ -28,3 +28,7 @@ Idag har jag jobbat med simon på att fixa till kort dragandet så att man får 
 # Week 3
 ## Måndag:
 Försökte komma in på scratch fast lyckades inte hitta vilken mail eller lösenord jag använda, har kontaktat support.
+
+# Week 15
+## Måndag
+Idag diskuterade jag frågebank strukturen i mitt UF's spel. Sedan omvandlade vi projektet till ett Unity projekt då vi fick problem i Godot vilket gjorde att resten av tiden gick till att installera Unity.

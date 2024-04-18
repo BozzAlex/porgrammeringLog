@@ -32,3 +32,7 @@ Försökte komma in på scratch fast lyckades inte hitta vilken mail eller löse
 # Week 15
 ## Måndag
 Idag diskuterade jag frågebank strukturen i mitt UF's spel. Sedan omvandlade vi projektet till ett Unity projekt då vi fick problem i Godot vilket gjorde att resten av tiden gick till att installera Unity.
+
+# Week 16
+## Måndag
+Idag har vi diskuterat hur vi ska presentera demo verisionen av mitt UF's programerings projekt till de på borealis. Sedan har vi också presenterat hur långt vi har kommit på projektet för dig. Efter det 

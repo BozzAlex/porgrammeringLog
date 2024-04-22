@@ -38,3 +38,7 @@ Idag diskuterade jag frågebank strukturen i mitt UF's spel. Sedan omvandlade vi
 Idag har vi diskuterat hur vi ska presentera demo verisionen av mitt UF's programerings projekt till de på borealis. Sedan har vi också presenterat hur långt vi har kommit på projektet för dig.
 ## Torsdag
 Idag behövde jag ominstallera Unity Editorn då jag hade en annan verision än Lucas. Under tiden skrev jag på gymnasiearbetet. Efter det hjälpte jag Joel lösa ett problem i hans yatzy spel.
+
+# Week 17
+## Måndag
+Idag har jag gjort test provet och skrivit i slutet av provet vad jag hittade om miljön.

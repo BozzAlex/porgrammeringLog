@@ -25,7 +25,7 @@ Idag har jag hjälpt simon med skapandet av hans blackjack spel. Jag har också 
 ## Torsdag:
 Idag har jag jobbat med simon på att fixa till kort dragandet så att man får ut både vilken färg och valör det är samt att den är rättviss och adaptiv till storleken på decket. Jag har också hållit på med bash och redigerat filer med Joel för att göra nya commands till datorn.
 
-# Week 3
+# Week 3?
 ## Måndag:
 Försökte komma in på scratch fast lyckades inte hitta vilken mail eller lösenord jag använda, har kontaktat support.
 
@@ -42,3 +42,9 @@ Idag behövde jag ominstallera Unity Editorn då jag hade en annan verision än 
 # Week 17
 ## Måndag
 Idag har jag gjort test provet och skrivit i slutet av provet vad jag hittade om miljön.
+##
+Idag har jag hjälpt Lucas att plugga inför matte provet samt planerat arbete framöver som handlar om projektet.
+
+# week 18
+## Mådag
+Idag har jag tränat inför IT proven samt kollade upp hur jag skulle göra med UI knappar för scen ändring på projektet. 

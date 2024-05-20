@@ -48,3 +48,22 @@ Idag har jag hjälpt Lucas att plugga inför matte provet samt planerat arbete f
 # week 18
 ## Mådag
 Idag har jag tränat inför IT proven samt kollade upp hur jag skulle göra med UI knappar för scen ändring på projektet. 
+## Torsdag
+Svenska NP
+
+# Week 19
+## Måndag
+Idag har vi planerat presentationen om projektet för Borealis. Sedan har jag tagit och kollat på projekt Euler "poker hands" problemet och börjat kåda.
+## Torsdag
+Idag var jag upptagen med att hjälpa folk plugga fysik samt plugga inför fysik och programmerings proven. 
+
+
+# Week 20
+## Måndag
+Gjorde start menyn till projektet.
+## Torsdag 
+Hjälpte Simon med sitt projekt.
+
+# Week 21
+## Måndag
+Slutprovet.
